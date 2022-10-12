@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/dacade.algorand/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/github.io/dacade.algorand/static/js/main.05316b40.chunk.js",
+    "main.js.map": "/github.io/dacade.algorand/static/js/main.05316b40.chunk.js.map",
+    "runtime-main.js": "/github.io/dacade.algorand/static/js/runtime-main.a43dc7a4.js",
+    "runtime-main.js.map": "/github.io/dacade.algorand/static/js/runtime-main.a43dc7a4.js.map",
+    "static/css/2.21cc88ed.chunk.css": "/github.io/dacade.algorand/static/css/2.21cc88ed.chunk.css",
+    "static/js/2.f1c64b6e.chunk.js": "/github.io/dacade.algorand/static/js/2.f1c64b6e.chunk.js",
+    "static/js/2.f1c64b6e.chunk.js.map": "/github.io/dacade.algorand/static/js/2.f1c64b6e.chunk.js.map",
+    "static/js/3.04e1ff81.chunk.js": "/github.io/dacade.algorand/static/js/3.04e1ff81.chunk.js",
+    "static/js/3.04e1ff81.chunk.js.map": "/github.io/dacade.algorand/static/js/3.04e1ff81.chunk.js.map",
+    "index.html": "/github.io/dacade.algorand/index.html",
+    "static/css/2.21cc88ed.chunk.css.map": "/github.io/dacade.algorand/static/css/2.21cc88ed.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/github.io/dacade.algorand/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.f1c64b6e.chunk.js.LICENSE.txt": "/github.io/dacade.algorand/static/js/2.f1c64b6e.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/github.io/dacade.algorand/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.ba8cb033.jpg": "/github.io/dacade.algorand/static/media/sandwich.ba8cb033.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43dc7a4.js",
+    "static/css/2.21cc88ed.chunk.css",
+    "static/js/2.f1c64b6e.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.05316b40.chunk.js"
+  ]
+}
